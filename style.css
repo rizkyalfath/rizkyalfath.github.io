@@ -1,0 +1,32 @@
+body {
+  background-color: rgb(63, 61, 61);
+}
+/* .border-home {
+  border: 2px solid white;
+  border-radius: 12px;
+}
+.border-about {
+  border: 2px solid white;
+  border-radius: 12px;
+}
+.border-journey {
+  border: 2px solid white;
+  border-radius: 12px;
+}
+*/
+
+.my-photo img {
+  margin: 20px;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+.travel {
+  width: 150px;
+  height: 100px;
+  text-decoration: none;
+  color: white;
+  justify-content: center;
+  display: inline-block;
+}
