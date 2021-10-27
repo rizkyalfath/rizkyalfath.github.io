@@ -22,11 +22,15 @@ body {
   border-radius: 50%;
 }
 
-.travel {
-  width: 150px;
+/* .travel {
+  width: 100px;
   height: 100px;
+  border-radius: 20%;
+} */
+
+.travel a {
+  border: 2px solid white;
   text-decoration: none;
   color: white;
-  justify-content: center;
   display: inline-block;
 }
