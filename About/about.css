@@ -1,6 +1,15 @@
-/* body {
-  background-color: rgb(63, 61, 61);
-} */
+body {
+  /* background-color: rgb(63, 61, 61); */
+  font-family: "Source Serif Pro", serif;
+}
+
+section p {
+  font-size: 20px;
+}
+
+.socmed p {
+  font-size: 17px;
+}
 
 footer {
   position: absolute;
