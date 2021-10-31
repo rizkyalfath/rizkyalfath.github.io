@@ -1,6 +1,20 @@
 body {
   background-color: rgb(63, 61, 61);
   font-family: "Source Serif Pro", serif;
+  /* font-family: "Caveat", cursive; */
+}
+
+.navbar a {
+  font-family: "Caveat", cursive;
+}
+
+h1,
+h2 {
+  font-family: "Merienda", cursive;
+}
+
+section p {
+  font-family: "Arapey", serif;
 }
 /* .border-home {
   border: 2px solid white;

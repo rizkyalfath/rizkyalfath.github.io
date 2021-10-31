@@ -1,8 +1,18 @@
 body {
   position: relative;
-  font-family: "Source Serif Pro", serif;
 }
 
+.navbar a {
+  font-family: "Caveat", cursive;
+}
+
+section p {
+  font-family: "Arapey", serif;
+}
+
+section h1 {
+  font-family: "Merienda", cursive;
+}
 .background {
   background-color: rgb(63, 61, 61);
   background-image: url(../bg2.jpg);
